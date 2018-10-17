@@ -1,4 +1,4 @@
-#coded by Jey Zeta
+#coded by R1M5KY
 import sys, os, webbrowser, platform, subprocess
 
 import webbrowser
@@ -21,7 +21,7 @@ def menu():
 \033[1;31m                                                        |___/
 
 					  \033[1;31mHacking Live\033[1;m
-			  \033[1;34mHecho por:\033[1;m Victor Bancayan & Kelvin Parra
+			  \033[1;34mHecho por:\033[1;m R1M5KY
   				       \033[1;35mVersion: Beta 1.0
   				      
 """
